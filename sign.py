@@ -20,9 +20,9 @@ if(_build):
 else:
     os.mkdir('build')
 
-keystore = 'u.keystore'
-keypass = '888888'
-keyalias = 'qichechaoren'
+keystore = '@@@@@@'
+keypass = '@@@@@@'
+keyalias = '@@@@@@'
 
 BASE_DIR = os.path.dirname(__file__)
 

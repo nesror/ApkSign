@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pythonSignApk
 python签名apk的脚本，同时支持v1和v2签名
 
@@ -20,3 +21,6 @@ stdin – Password is provided as a single line in the standard input stream. Th
 Note: If you include multiple passwords in the same file, specify them on separate lines. The apksigner tool associates passwords with an APK's signers based on the order in which you specify the signers. If you've provided two passwords for a signer, apksigner interprets the first password as the KeyStore password and the second one as the key password.
 ~~~~
 https://developer.android.com/studio/command-line/apksigner.html
+=======
+# pythonSignApk
+>>>>>>> 16e75ea60619f2ce7257674bce4eb93771af9a12
